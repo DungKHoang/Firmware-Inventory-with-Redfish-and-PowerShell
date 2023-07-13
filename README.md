@@ -1,1 +1,17 @@
-# Firmware-Inventory-with-Redfish-and-PowerShell
+## Firmware-Inventory-with Redfish-Powershell
+
+The PowerShell script queries iLO server and collects firmware information
+
+
+
+## Prerequisites
+* HPE Redfish cmdlets : ```` install-module -name HPEOneView.800 ````
+
+
+## To run the script
+````
+Edit the script to provide iLO information: IP Address - credential
+.\redfish-fw-inventory.ps1 
+````
+
+Enjoy!
