@@ -5,7 +5,7 @@ The PowerShell script queries iLO server and collects firmware information
 
 
 ## Prerequisites
-* HPE Redfish cmdlets : ```` install-module -name HPEOneView.800 ````
+* HPE Redfish cmdlets : ```` Install-Module -Name HPERedfishCmdlets ````
 
 
 ## To run the script
